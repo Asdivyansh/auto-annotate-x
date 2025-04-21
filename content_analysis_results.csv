@@ -1,0 +1,4 @@
+text,model_name,confidence,timestamp,tone,strength,key_phrases
+This product is absolutely amazing! Best purchase ever!,gpt-4o,0.95,2025-02-22 19:48:05.018003,positive,5,"['absolutely amazing', 'best purchase ever']"
+"The service was okay, but could be better.",gpt-4o,0.95,2025-02-22 19:48:05.018003,neutral,3,"service was okay, could be better"
+I'm very disappointed with the quality. Would not recommend.,gpt-4o,0.95,2025-02-22 19:48:05.018003,negative,4,"very disappointed, would not recommend"

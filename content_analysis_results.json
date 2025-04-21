@@ -1,0 +1,32 @@
+[
+  {
+    "text": "This product is absolutely amazing! Best purchase ever!",
+    "model_name": "gpt-4o",
+    "confidence": 0.95,
+    "timestamp": "2025-02-22 19:48:05.018003",
+    "tone": "positive",
+    "strength": 5,
+    "key_phrases": [
+      "absolutely amazing",
+      "best purchase ever"
+    ]
+  },
+  {
+    "text": "The service was okay, but could be better.",
+    "model_name": "gpt-4o",
+    "confidence": 0.95,
+    "timestamp": "2025-02-22 19:48:05.018003",
+    "tone": "neutral",
+    "strength": 3,
+    "key_phrases": "service was okay, could be better"
+  },
+  {
+    "text": "I'm very disappointed with the quality. Would not recommend.",
+    "model_name": "gpt-4o",
+    "confidence": 0.95,
+    "timestamp": "2025-02-22 19:48:05.018003",
+    "tone": "negative",
+    "strength": 4,
+    "key_phrases": "very disappointed, would not recommend"
+  }
+]
